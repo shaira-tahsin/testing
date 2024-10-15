@@ -16,4 +16,6 @@ int main()
     int result2 = a+b;
     printf("New result is euqal to = %d\n", result2);
 
+    prinft("\nSo this is how you add two numbers\n");
+
 }
